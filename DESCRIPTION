@@ -1,7 +1,7 @@
 Package: ringdater
 Type: Package
 Title: A Statstical and Graphical Tool for Crossdating
-Version: 1.1
+Version: 1.1.0
 Author: c(person("David", "Reynolds", role = c("aut", "cre"),
     person("David", "Edge", role = "aut"),
     person("Bryan", "Black", role = "aut"))
