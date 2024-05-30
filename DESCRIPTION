@@ -1,13 +1,13 @@
 Package: ringdater
 Type: Package
 Title: A Statstical and Graphical Tool for Crossdating
-Version: 0.1.0
+Version: 1.1
 Author: c(person("David", "Reynolds", role = c("aut", "cre"),
     person("David", "Edge", role = "aut"),
     person("Bryan", "Black", role = "aut"))
 Maintainer: David Reynolds <davidreynolds@email.arizona.edu>
 Description: An interactive application (Shiny app) for visual and statistical crossdating
-    of annually resolved measurement time series (e.g. tree rings or mollusc, fish and coral growth rings).
+    of annually resolved measurement time series (e.g. tree rings or mollusc, fish and coral growth rings). THIS IS A TEST BUILD.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true

@@ -4,7 +4,13 @@
 \alias{load_undated}
 \title{Load multiple undated series into a single data frame}
 \usage{
-load_undated(files, col1 = "ring", series_names = NULL, shiny = FALSE)
+load_undated(
+  files,
+  col1 = "ring",
+  series_names = NULL,
+  shiny = FALSE,
+  avg_ser = TRUE
+)
 }
 \arguments{
 \item{files}{A list of set of files pathsas a character strings}
